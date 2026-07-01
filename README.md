@@ -90,13 +90,14 @@ jupyter notebook Gridlock.ipynb
 
 Run all cells top to bottom. Place the competition dataset (train/test CSVs) in the same directory, or update the file paths at the top of the notebook to point to your local data.
 
-## Results
-
-_Add final leaderboard score / key metrics here (e.g. RMSE, MAE) once finalized._
-
 ## Team / Context
 
 Built for the Flipkart GRiD hackathon as a spatio-temporal demand forecasting solution using an ensemble learning approach.
+
+Team members: 
+
+Tugiti Likhitha
+Gavireddy Jyotshna Devi
 
 ## License
 
